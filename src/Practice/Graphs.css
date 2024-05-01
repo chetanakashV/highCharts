@@ -1,0 +1,18 @@
+.highcharts-tooltip-box{
+    background-color: 'black'
+}
+
+.highcharts-tooltip-container .highcharts-tooltip>span {
+    min-width: 100px;
+    max-width: 200px;
+    white-space: normal;
+  }
+
+
+.tool{
+    /* margin-left: 10px ; */
+    max-width: 10px;
+    overflow: auto;
+    white-space: auto;
+    /* pointer-events:fil; */
+}
